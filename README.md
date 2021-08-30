@@ -17,6 +17,7 @@
 ```2021/07/19``` [PlatformIO中，在lib中加入更多的資料夾](https://github.com/SilasYoome/blog/issues/12)  
 ```2021/08/26``` [vscode中PlatformIO套件--用J-Link燒入STM32](https://github.com/SilasYoome/blog/issues/14)  
 ```2021/08/26``` [PlatformIO中用Arduino框架寫STM32的程式，Serial方面要注意的地方](https://github.com/SilasYoome/blog/issues/15)  
+```2021/08/30``` [vscode中PlatformIO套件--用ST-Link燒入STM32](https://github.com/SilasYoome/blog/issues/16)
 
 ## GitHub相關
 ```2021/07/15``` [Ubuntu中git指令紀錄](https://github.com/SilasYoome/blog/issues/9)  
