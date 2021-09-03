@@ -24,5 +24,5 @@
 ```2021/07/12``` [Github Project 使用教學(一) - 版面介紹](https://github.com/SilasYoome/blog/issues/11)  
 
 ## C/C++相關
-```2021/09/03``` [C++ 內嵌函式 inline function](https://github.com/SilasYoome/blog/issues/17)  
+```2021/09/03``` [C++ inline function 內嵌函式](https://github.com/SilasYoome/blog/issues/17)  
 ```2021/09/03``` [C/C++ auto 自動變數聲明](https://github.com/SilasYoome/blog/issues/18)  
