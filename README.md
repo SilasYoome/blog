@@ -23,3 +23,5 @@
 ```2021/07/15``` [Ubuntu中git指令紀錄](https://github.com/SilasYoome/blog/issues/9)  
 ```2021/07/12``` [Github Project 使用教學(一) - 版面介紹](https://github.com/SilasYoome/blog/issues/11)  
 
+## C/C++相關
+```2021/09/03``` [C++ 內嵌函式 inline function](https://github.com/SilasYoome/blog/issues/17)
