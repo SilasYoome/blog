@@ -6,6 +6,7 @@
 ```2021/06/11``` [ROS Behavior Tree CH01 建立第一個ActionNode](https://github.com/SilasYoome/blog/issues/5)  
 ```2021/07/01``` [ROS Behavior Tree CH02 基本端口──輸入與輸出端口宣告](https://github.com/SilasYoome/blog/issues/8)  
 ```2021/09/08``` [ROS Behavior Tree CH03 泛用端口宣告](https://github.com/SilasYoome/blog/issues/20)
+```2021/09/09``` [ROS Behavior Tree CH04 Sequences與ReactiveSequence的不同 ](https://github.com/SilasYoome/blog/issues/21)
 
 ## Arduino相關
 ```2021/06/22``` [幾個常見的檢查碼計算方式](https://github.com/SilasYoome/blog/issues/7)  
