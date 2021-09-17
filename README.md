@@ -12,6 +12,7 @@
 ```2021/09/14``` [ROS Behavior Tree CH07 包裝既有程式碼](https://github.com/SilasYoome/blog/issues/24)  
 ```2021/09/15``` [ROS Behavior Tree CH08 附加參數](https://github.com/SilasYoome/blog/issues/25)  
 ```2021/09/16``` [ROS Behavior Tree CH09 協程Coroutines](https://github.com/SilasYoome/blog/issues/26)  
+```2021/09/17``` [ROS Behavior Tree CH10 紀錄器(loggers)與Groot](https://github.com/SilasYoome/blog/issues/27)  
 
 ## Arduino相關
 ```2021/06/22``` [幾個常見的檢查碼計算方式](https://github.com/SilasYoome/blog/issues/7)  
